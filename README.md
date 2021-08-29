@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Georgitzu
+- 👀 I’m interested in Minecraft, Learning Coding, and various other activities!
+- 🌱 I’m currently learning Minecraft Modding/coding and coding in general(Specifically Java)...
+- 📫 How to reach me: Message Me :D
