@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "# #",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "rubycrystal:ruby_crystal"
+      }
+    },
+    "result": {
+      "item": "rubycrystal:ruby_chestplate"
+    }
+  }
